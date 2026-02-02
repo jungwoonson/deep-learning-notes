@@ -11,3 +11,4 @@
 - 흐름도, 구조도: Mermaid (` ```mermaid `)
 - 좌표 그래프, 도형: matplotlib 이미지 생성 후 첨부
 - 행렬, 벡터 표현: LaTeX `\begin{bmatrix}` 사용
+- 노트 언어: 한국어 (영어 용어 함께 표기)
