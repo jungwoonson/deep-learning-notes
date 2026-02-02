@@ -279,7 +279,3 @@ SmolVLA의 적합한 용도:
 6. **Scaling 전략**: SmolVLA로 시작하여 점점 더 큰 VLA로 확장하는 연구 전략을 설계하라. SmolVLA에서 검증한 아이디어를 OpenVLA급 모델에 적용할 때 고려할 점은?
 
 ---
-
-## 다음 노트
-
-**다음**: [Action Representations](./07-action-representations.md) - VLA에서 가장 핵심적인 설계 선택 중 하나: 로봇의 행동을 어떻게 표현하는가? 이산 토큰(RT-2, OpenVLA), FAST 압축 토큰, 연속 Flow Matching(pi-0, SmolVLA)의 상세 비교와 2025년 말의 최신 방법론(FASTer, VQ-VLA).

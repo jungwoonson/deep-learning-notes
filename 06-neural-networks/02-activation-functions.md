@@ -293,9 +293,3 @@ RNN/LSTM 내부               → Tanh, Sigmoid (게이트)
 6. **VLA 설계 추론**: Llama 2 기반 VLA 모델이 SiLU를 사용하는 이유를 추론해보라. (힌트: Backbone LLM의 선택을 그대로 따르는 것이 일반적이다)
 
 ---
-
-## 다음 노트 (Next Note)
-
-활성화 함수를 통해 신경망이 복잡한 함수를 표현할 수 있게 되었다. 하지만 가중치를 **어떻게 업데이트**하는지를 아직 다루지 않았다. 그 핵심이 역전파(Backpropagation)이다.
-
-**다음**: [역전파 (Backpropagation)](./03-backpropagation.md) - 손실에서 출발하여 모든 가중치의 기울기를 효율적으로 계산하는 방법. PyTorch autograd의 원리이기도 하다.

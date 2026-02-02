@@ -141,7 +141,3 @@ VLA 학습에서 effective batch size 256이 필요하지만 GPU당 32밖에 못
 6. gradient accumulation을 직접 구현하고, 단일 배치 학습 대비 실질적 batch size가 커졌을 때 loss 곡선이 어떻게 변하는지 비교해 보라.
 
 ---
-
-## 다음 노트
-
-[디버깅 (Debugging)](./06-debugging.md) — 학습이 기대대로 동작하지 않을 때, 문제를 진단하고 해결하는 실전 기법을 다룬다.

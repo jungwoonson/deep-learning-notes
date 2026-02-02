@@ -184,7 +184,3 @@ for i, ax in enumerate(axes.flat):
 6. **히스토그램으로 분포 비교**: `np.random.randn`으로 평균이 다른 두 분포를 만들고, 같은 axes에 겹쳐서 히스토그램을 그려 보자 (`alpha`를 활용).
 
 ---
-
-## 다음 노트
-
-다음은 [Pandas 기초 (Pandas Basics)](./04-pandas-basics.md)를 학습한다. 실제 데이터셋은 CSV, JSON 등 표 형태인 경우가 많다. Pandas로 이런 데이터를 불러오고 탐색하고 전처리하는 방법을 배운다.

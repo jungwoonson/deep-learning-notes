@@ -238,9 +238,3 @@ loss              loss               loss
 5. **VLA 학습 전략**: VLA 모델이 Vision(분류)과 Action(회귀)을 동시에 학습해야 한다면, 각각 다른 손실 함수를 사용하게 된다. 이 두 손실을 어떻게 합칠 수 있을까? (힌트: weighted sum)
 
 ---
-
-## 다음 노트 (Next Note)
-
-손실 함수와 최적화 방법을 배웠다. 하지만 학습을 잘 해도 **새로운 데이터에서 성능이 떨어지는** 문제가 있다.
-
-**다음**: [과적합과 정규화 (Overfitting and Regularization)](./05-overfitting-regularization.md) - 모델이 훈련 데이터를 "외워버리는" 문제와 이를 방지하는 기법들을 배운다.

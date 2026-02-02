@@ -264,9 +264,3 @@ VLA든 GPT든 이 루프를 수십만 번 반복하는 것이다.
 5. **학습 루프 순서**: 만약 `loss.backward()` 전에 `optimizer.zero_grad()`를 호출하지 않으면 어떤 일이 발생하는가? 구체적인 시나리오를 들어 설명하라.
 
 ---
-
-## 다음 노트 (Next Note)
-
-역전파로 gradient를 구했다면, 이제 그 gradient를 **어떻게 사용하여 가중치를 업데이트**할지 결정해야 한다. 단순한 SGD부터 현대 딥러닝의 표준인 Adam까지, 옵티마이저의 세계를 알아보자.
-
-**다음**: [옵티마이저 (Optimizers: SGD, Adam)](./04-optimizers-sgd-adam.md) - gradient를 활용하는 다양한 전략. VLA 학습의 표준인 AdamW와 학습률 스케줄링을 다룬다.

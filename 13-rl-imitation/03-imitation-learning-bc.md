@@ -112,7 +112,3 @@ Distribution shift를 체계적으로 해결하는 방법이다.
 5. BC 데이터셋에서 같은 상태에 대해 전문가마다 다른 행동을 보이면(multimodal action distribution) 어떤 문제가 생기는지 설명하라. (힌트: MSE loss의 한계와 Diffusion Policy의 동기)
 
 ---
-
-## 다음 노트
-
-[Robot Action Spaces](./04-robot-action-spaces.md)

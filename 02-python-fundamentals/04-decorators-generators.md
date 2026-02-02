@@ -292,9 +292,3 @@ with torch.no_grad():                    # context manager
 5. **@torch.no_grad() 사용 판단**: 학습 루프, 검증 루프, 추론 루프 각각에서 `torch.no_grad()`를 써야 하는지, 쓰지 말아야 하는지 판단하고 이유를 설명해보라.
 
 ---
-
-## 다음 노트로
-
-Python 언어 자체의 핵심 기능은 여기까지다. 이제 실제로 프로젝트를 만들고 실행하기 위한 **생태계 도구**를 배울 차례다. 패키지 관리, 가상환경, Jupyter, 프로젝트 구조.
-
-> **다음**: [파이썬 생태계 (Python Ecosystem)](./05-ecosystem-pip-venv.md)

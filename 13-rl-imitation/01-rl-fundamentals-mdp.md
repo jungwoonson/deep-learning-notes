@@ -80,7 +80,3 @@ RL은 이론적 기반을 제공하지만, 실제 VLA는 사람이 보여준 시
 5. Gym interface의 step() 함수가 반환하는 4개 값 각각이 MDP의 어떤 요소에 대응되는지 매핑하라.
 
 ---
-
-## 다음 노트
-
-[Policy Gradient / PPO](./02-policy-gradient-ppo.md)

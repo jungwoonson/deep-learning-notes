@@ -87,7 +87,3 @@ BERT의 사전학습 방식이다. 레이블이 없는 대규모 텍스트만으
 4. **Pre-training 데이터**: MLM에서 마스킹 비율을 50%로 올리면 어떤 문제가 생길지, 반대로 5%로 낮추면 어떤 문제가 생길지 생각해 보라.
 
 ---
-
-## 다음 노트
-
-[GPT와 Autoregressive 모델](./02-gpt-autoregressive.md) -- decoder-only 아키텍처와 텍스트 생성 방식. VLA의 핵심 백본인 Llama 2가 바로 이 계열이다.

@@ -268,7 +268,3 @@ PI의 접근 방식:
 6. **모방 학습의 천장**: 모방 학습은 "전문가만큼만" 할 수 있다는 근본적 한계가 있다. pi-star-0.6의 RL이 이 천장을 어떻게 돌파하는지 설명하라. (Part 13 RL/Imitation 복습)
 
 ---
-
-## 다음 노트
-
-**다음**: [Dual-System 아키텍처](./05-dual-system-helix-groot.md) - pi-0의 단일 모델 접근과 달리, Helix(Figure AI)와 GR00T N1(NVIDIA)은 "느린 추론 + 빠른 제어"를 분리하는 이중 시스템을 제안한다. 인간의 System 1/System 2를 모방한 2025년 핵심 아키텍처 패러다임.

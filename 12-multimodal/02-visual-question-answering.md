@@ -96,7 +96,3 @@ VLA는 본질적으로 **"행동을 출력하는 VQA"**이다. 이미지를 이�
 5. VQA에서 attention이 중요한 이유를 로봇 조작(manipulation) 관점에서 설명해 보라
 
 ---
-
-## 다음 노트
-
-[LLaVA -- Large Language and Vision Assistant](./03-llava.md)

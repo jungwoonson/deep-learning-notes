@@ -101,7 +101,3 @@ class VLAModel(nn.Module):
 6. 두 개의 서브 모듈을 가진 모델을 만들고, `named_parameters()`로 키 이름의 계층 구조를 확인해 보라.
 
 ---
-
-## 다음 노트
-
-[Dataset과 DataLoader](./03-datasets-dataloaders.md) — 모델에 공급할 데이터를 효율적으로 준비하고 배치 단위로 전달하는 방법을 다룬다.

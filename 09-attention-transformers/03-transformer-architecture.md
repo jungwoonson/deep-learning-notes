@@ -360,9 +360,3 @@ Language + Action (Llama 2 Decoder):
 5. **Cross-Attention의 역할**: VLA에서 Cross-Attention을 제거하면 어떤 일이 일어날지 생각해보라. 언어 모델이 이미지 정보를 전혀 받을 수 없다면, "빨간 컵을 집어라"라는 명령을 어떻게 처리할 수 있을까?
 
 ---
-
-## 다음 노트 (Next Note)
-
-Transformer의 전체 구조를 파악했다. 하지만 한 가지 중요한 문제를 아직 해결하지 않았다: **Self-Attention은 토큰의 순서를 모른다**. "나는 학생입니다"와 "학생입니다 나는"을 구분하지 못한다. 이 문제를 해결하는 것이 **위치 인코딩(Positional Encoding)**이며, VLA에서 사용하는 최신 기법인 RoPE까지 다룬다.
-
-**다음**: [위치 인코딩과 RoPE](./04-positional-encoding-rope.md) - Transformer에 순서 정보를 부여하는 방법. 사인/코사인부터 VLA의 핵심 기법 RoPE까지.

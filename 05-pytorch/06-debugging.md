@@ -166,7 +166,3 @@ torch.cuda.manual_seed_all(42)
 6. `torch.autograd.gradcheck`을 사용하여 직접 만든 간단한 함수의 gradient가 올바른지 검증해 보라.
 
 ---
-
-## 다음 노트
-
-[신경망 (Neural Networks)](../06-neural-networks/) — PyTorch 기초를 마쳤으니, 이제 신경망의 구조와 원리를 본격적으로 학습한다.

@@ -112,7 +112,3 @@ $$\epsilon_{\text{guided}} = \epsilon_\theta(x_t, t, \varnothing) + w \cdot \lef
 5. 학습 시 조건을 랜덤하게 drop하는 것(CFG의 학습 트릭)이 왜 비조건부 모델도 동시에 학습하는 효과를 내는지 설명하라.
 
 ---
-
-## 다음 노트
-
-[Flow Matching](./03-flow-matching.md)

@@ -73,7 +73,3 @@ ViT가 보여준 "이미지를 patch token sequence로 변환" 패러다임은 �
 5. patch 크기를 줄이면 (예: 16x16 → 8x8) 성능과 비용이 어떻게 변하는지 추론해 보라
 
 ---
-
-## 다음 노트
-
-[DINO / DINOv2 -- Self-Supervised Vision Learning](./02-dino-dinov2.md)

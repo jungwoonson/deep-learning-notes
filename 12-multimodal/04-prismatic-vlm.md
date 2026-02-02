@@ -116,7 +116,3 @@ graph TD
 5. 로봇 조작 task에서 spatial feature와 semantic feature가 각각 어떤 역할을 하는지 예시를 들어 설명해 보라
 
 ---
-
-## 다음 노트
-
-[Multimodal Fusion -- 여러 모달리티를 결합하는 방법](./05-multimodal-fusion.md)

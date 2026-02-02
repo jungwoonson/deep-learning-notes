@@ -241,9 +241,3 @@ $$\text{score}(s, h) = \frac{s^T h}{\sqrt{d_k}}$$
 5. **Score 함수 비교**: Additive score와 Dot-Product score 중, 왜 Transformer는 Dot-Product를 선택했을까? 힌트: 행렬곱의 병렬 처리 효율성을 생각해보라.
 
 ---
-
-## 다음 노트 (Next Note)
-
-Bahdanau Attention은 **디코더가 인코더를 참조**하는 Cross-Attention이다. 그런데 한 가지 질문이 떠오른다: "인코더 내부에서, 각 단어가 다른 단어들을 참조하면 어떨까?" 이것이 바로 **Self-Attention**이며, Transformer의 핵심이다.
-
-**다음**: [Self-Attention과 Q/K/V](./02-self-attention-qkv.md) - Cross-Attention에서 Self-Attention으로의 도약. Query, Key, Value의 직관적 이해와 Scaled Dot-Product Attention 수식.

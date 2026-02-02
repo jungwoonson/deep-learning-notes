@@ -103,7 +103,3 @@ ResNet:        출력 = F(x) + x       ← x에서의 "변화량"만 학습
 5. ResNet-50의 bottleneck block이 1x1 Conv를 어떻게 활용하는지 구조를 그려보라.
 
 ---
-
-## 다음 노트
-
-[전이학습 (Transfer Learning)](./04-transfer-learning.md) -- 이 강력한 네트워크들을 처음부터 학습하지 않고 재활용하는 방법을 배운다.

@@ -123,6 +123,3 @@ $$\theta_{\text{new}} = \theta_{\text{old}} - \eta \cdot \nabla L(\theta)$$
 3. 학습률을 $0.001$, $0.1$, $10$으로 설정했을 때 $f(x) = x^2$ 최소화 과정을 비교해보기
 
 ---
-
-## 다음 노트
-→ [확률과 통계](./05-probability-statistics.md): 확률 분포, 기대값 — 손실 함수와 모델 출력의 기반

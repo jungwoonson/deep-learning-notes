@@ -197,7 +197,3 @@ LoRA adapter를 교체하기만 하면 같은 기본 모델로 다양한 로봇�
 6. **PEFT 방법 비교**: LoRA, Adapter, Prefix Tuning의 추론 시 비용을 비교하라. 실시간 로봇 제어에서 왜 LoRA가 유리한가?
 
 ---
-
-## 다음 노트
-
-[Modern Vision으로](../11-modern-vision/) -- 이제 LLM의 기반을 완료했다. 다음은 VLA의 또 다른 축인 vision 쪽으로, 최신 비전 모델들이 LLM과 어떻게 결합되는지 살펴본다.

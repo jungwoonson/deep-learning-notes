@@ -84,7 +84,3 @@ CLIP의 혁신적 능력은 **학습하지 않은 카테고리도 분류**할 �
 5. CLIP → SigLIP → VLA로 이어지는 기술 발전의 흐름을 정리해 보라
 
 ---
-
-## 다음 노트
-
-[Visual Question Answering (VQA)](./02-visual-question-answering.md)

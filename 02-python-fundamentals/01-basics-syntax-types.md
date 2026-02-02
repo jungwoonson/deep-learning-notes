@@ -203,9 +203,3 @@ graph TD
 5. **Type hint 읽기 연습**: 오픈소스 코드에서 함수 시그니처를 읽고, 입력/출력 타입을 파악하는 연습을 해보라. (예: Hugging Face Transformers의 함수들)
 
 ---
-
-## 다음 노트로
-
-기본 타입을 이해했으면, 이제 이 값들을 **조건에 따라 분기**하고 **반복 처리**하는 방법을 배울 차례다.
-
-> **다음**: [제어문과 함수 (Control Flow and Functions)](./02-control-flow-functions.md)

@@ -133,7 +133,3 @@ scheduler.step()  # 보통 epoch 또는 step 단위로 호출
 6. CosineAnnealingLR scheduler를 적용하고, 매 step의 learning rate를 출력해 보라.
 
 ---
-
-## 다음 노트
-
-[저장, 로드, GPU 훈련](./05-saving-loading-gpu.md) — 학습된 모델을 저장하고 다시 불러오는 방법, 그리고 GPU를 활용한 효율적인 학습 기법을 다룬다.

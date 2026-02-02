@@ -88,7 +88,3 @@ RNN/LSTM/GRU를 여러 층 쌓을 수 있다. 첫 번째 층의 hidden state 시
 5. LSTM 2층과 GRU 3층 중 파라미터 수가 더 많은 쪽이 어디일지 추론해 보기 (정확한 계산 없이 논리적으로)
 
 ---
-
-## 다음 노트
-
-[Seq2Seq와 Encoder-Decoder 구조](./03-seq2seq-encoder-decoder.md)

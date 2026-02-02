@@ -156,7 +156,3 @@ a[np.newaxis, :]             # shape: (1, 3) — 행벡터
 5. **유클리드 거리 행렬**: N개의 점 `(N, D)`에 대해 모든 쌍의 거리를 루프 없이 `(N, N)` 행렬로 계산해 보자. (힌트: `np.newaxis`로 `(N, 1, D)`와 `(1, N, D)`를 만들어 broadcasting)
 
 ---
-
-## 다음 노트
-
-다음은 [Matplotlib 시각화 (Matplotlib Visualization)](./03-matplotlib-visualization.md)를 학습한다. 배열을 눈으로 확인하는 방법을 배운다. 이미지 시각화, 학습 곡선 그리기, attention heatmap 표현 등 딥러닝에서 필수적인 시각화 기법을 다룬다.

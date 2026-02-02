@@ -160,7 +160,3 @@ Pre-train + Fine-tune가 작동하는 근본적 이유:
 5. **Catastrophic Forgetting**: 파인튜닝 과정에서 사전학습된 지식이 손실될 수 있다 (Catastrophic Forgetting). VLA에서 이것이 문제가 된다면 어떤 증상으로 나타날까? 이미지를 인식하지 못하게 된다면?
 
 ---
-
-## 다음 노트
-
-[Llama 아키텍처](./05-llama-architecture.md) -- OpenVLA의 실제 백본인 Llama 2의 구체적 아키텍처 구성 요소. RMSNorm, SwiGLU, RoPE, GQA를 깊이 있게 다룬다.

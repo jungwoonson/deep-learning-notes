@@ -253,9 +253,3 @@ Round 5: [Train][Train][Train][Train][Val]  → 성능 86%
 6. **교차 검증**: 데이터가 500개밖에 없는 의료 진단 문제에서, 왜 단순 train/val/test 분할보다 K-Fold가 더 적절한가?
 
 ---
-
-## 다음 노트 (Next Note)
-
-과적합을 방지하고 모델을 잘 학습시켰다면, 이제 그 모델이 **정말 잘 동작하는지 어떻게 측정**하는지 배워야 한다.
-
-**다음**: [평가 지표 (Evaluation Metrics)](./06-evaluation-metrics.md) - 정확도만으로는 부족한 이유와, 다양한 성능 측정 방법을 배운다.

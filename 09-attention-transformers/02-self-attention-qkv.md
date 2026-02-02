@@ -296,9 +296,3 @@ Self-Attention 후:
 5. **문맥 표현의 변화**: "I went to the bank to fish"와 "I went to the bank to deposit"에서 "bank"의 Self-Attention 출력이 어떻게 달라질지 직관적으로 설명해보라. 어떤 단어에 높은 attention weight가 갈까?
 
 ---
-
-## 다음 노트 (Next Note)
-
-Self-Attention의 원리(Q/K/V, Scaled Dot-Product)를 이해했다. 이제 이 Self-Attention을 **완전한 모델**로 조립할 차례이다. 인코더-디코더를 쌓고, 잔차 연결과 Layer Norm을 더하면 -- 바로 그 유명한 **Transformer**가 된다.
-
-**다음**: [Transformer 아키텍처](./03-transformer-architecture.md) - "Attention Is All You Need" 논문의 전체 구조. 인코더/디코더 스택, Masked Self-Attention, Cross-Attention, 잔차 연결, Layer Norm까지.

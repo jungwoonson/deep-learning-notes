@@ -313,7 +313,3 @@ Action Chunking:
 6. **Action Chunk 크기 선택**: chunk 크기가 4, 16, 64 스텝일 때 각각의 장단점을 분석하라. 작은 chunk는 반응성이 좋지만, 큰 chunk는 효율적이다. "컵을 들고 있다가 미끄러지기 시작할 때" 어떤 chunk 크기가 유리한가?
 
 ---
-
-## 다음 노트
-
-**다음**: [Datasets & Open X-Embodiment](./08-datasets-open-x.md) - VLA의 성능은 결국 데이터에 의해 결정된다. Open X-Embodiment(22개 로봇, 1M+ 에피소드), RLDS 형식, LeRobot 커뮤니티 데이터셋, 그리고 자체 데이터를 VLA 학습에 사용하기 위한 준비 과정.

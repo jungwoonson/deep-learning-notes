@@ -74,7 +74,3 @@ DINOv2는 "이미지 속 **어디에 무엇이 있는지**"를 잘 파악하고,
 5. Label이 전혀 없는 로봇 환경 이미지에서 DINOv2가 유용한 이유를 설명해 보라
 
 ---
-
-## 다음 노트
-
-[Contrastive Learning / SigLIP](./03-contrastive-learning-siglip.md)

@@ -86,7 +86,3 @@ LLaVA와 OpenVLA의 관계:
 5. LLaVA의 구조를 로봇에 적용하려면 어떤 변경이 필요할지 자신만의 아이디어를 정리해 보라
 
 ---
-
-## 다음 노트
-
-[Prismatic VLM -- OpenVLA의 기반 모델](./04-prismatic-vlm.md)

@@ -256,9 +256,3 @@ def train(config):                          # 함수
 5. **예외 상황 열거**: 딥러닝 학습 중 발생할 수 있는 오류들을 나열하고, 각각에 대해 어떤 except 처리가 적절한지 생각해보라.
 
 ---
-
-## 다음 노트로
-
-제어문과 함수만으로도 학습 스크립트를 작성할 수 있다. 하지만 PyTorch의 모든 모델은 **클래스(class)** 로 구성되어 있다. `nn.Module`을 이해하려면 OOP가 필수다.
-
-> **다음**: [OOP와 클래스 (Object-Oriented Programming)](./03-oop-classes.md)

@@ -146,7 +146,3 @@ L_action   = flow matching loss (연속 값 예측, action 부분)
 5. Flow matching이 diffusion보다 적은 step으로 action을 생성할 수 있다. 이것이 실시간 로봇 제어에서 왜 결정적으로 중요한지 구체적 숫자로 설명하라 (예: 추론 시간 vs 제어 주파수).
 
 ---
-
-## 다음 노트
-
-[VLA 폴더로 이동](../15-vla/)

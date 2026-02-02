@@ -102,7 +102,3 @@ MixUp의 공간적 변형이다.
 5. Domain randomization이 sim-to-real transfer에 왜 효과적인지, "현실적 시뮬레이션"과 비교하여 논해 보라.
 
 ---
-
-## 다음 노트
-
-[시퀀스 모델 (Sequence Models)](../08-sequence-models/) -- CNN으로 이미지를 이해한 뒤, 시간 순서가 있는 데이터를 처리하는 방법을 배운다. 로봇은 연속적인 시간 속에서 행동하므로, 시퀀스 모델링은 VLA의 또 다른 핵심 축이다.

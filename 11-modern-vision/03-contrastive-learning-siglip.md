@@ -75,7 +75,3 @@ OpenVLA가 SigLIP을 선택한 이유:
 5. Contrastive learning과 self-supervised learning (DINO)의 학습 신호 차이를 비교해 보라
 
 ---
-
-## 다음 노트
-
-[Feature Extraction -- Patch Embeddings and Token Sequences](./04-feature-extraction-patches.md)

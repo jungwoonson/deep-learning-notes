@@ -262,9 +262,3 @@ Action Head (MLP):
 5. **VLA 구조 추론**: Transformer의 FFN이 `d_model → 4*d_model → d_model` 구조라면, d_model=4096인 모델에서 FFN 하나의 파라미터 수는 얼마인가? 이런 FFN이 32층이면 총 FFN 파라미터는?
 
 ---
-
-## 다음 노트 (Next Note)
-
-퍼셉트론과 MLP의 구조를 배웠다. 하지만 핵심 요소 하나를 아직 깊이 다루지 않았다: **활성화 함수**. 활성화 함수가 없으면 아무리 깊이 쌓아도 하나의 선형 변환에 불과하다.
-
-**다음**: [활성화 함수 (Activation Functions)](./02-activation-functions.md) - 신경망에 비선형성을 부여하는 핵심 요소. VLA에서 사용하는 최신 활성화 함수(GELU, SiLU)까지 다룬다.

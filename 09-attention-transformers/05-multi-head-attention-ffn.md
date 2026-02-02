@@ -346,9 +346,3 @@ Language + Action (Llama 2-7B):
 5. **VLA의 전체 파라미터 분포**: Llama 2-7B에서 Attention 파라미터(약 21억)와 FFN 파라미터(약 43억)의 비율을 구하라. 나머지 파라미터(Embedding 등)는 약 몇 억인지 추정해보라.
 
 ---
-
-## 다음 노트 (Next Note)
-
-Transformer의 모든 구성 요소를 이해했다. 이제 이것을 **실제로 구현하고 실행**하는 관점에서 정리할 차례이다. Padding Mask와 Causal Mask의 실제 구현, 추론 속도를 위한 KV-cache, 그리고 전체 아키텍처를 PyTorch 용어로 매핑한다.
-
-**다음**: [Transformer 구현](./06-transformer-implementation.md) - PyTorch 관점에서의 전체 아키텍처 정리. 마스킹(Padding/Causal)의 실제 구현, 추론 최적화의 핵심 KV-cache, 그리고 학습과 추론의 차이.

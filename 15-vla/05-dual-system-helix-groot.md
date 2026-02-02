@@ -266,7 +266,3 @@ NVIDIA의 전략:
 6. **수렴 진화의 교훈**: Figure AI(스타트업)와 NVIDIA(대기업)가 같은 아키텍처에 독립적으로 도달한 것은 이것이 "자연스러운 해법"임을 시사한다. 다른 분야에서 비슷한 수렴 진화의 예를 생각해보라. (예: 자율주행의 perception-planning-control 분리)
 
 ---
-
-## 다음 노트
-
-**다음**: [SmolVLA](./06-smolvla-democratization.md) - 7B 이상의 대형 VLA는 대기업만 운영할 수 있다. Hugging Face의 SmolVLA(450M)는 소비자 GPU와 MacBook에서도 실행 가능한 VLA로, VLA 연구의 민주화를 이끈다. LeRobot 커뮤니티의 3290+ 파인튜닝 모델 생태계까지.

@@ -109,7 +109,3 @@ PPO가 선택된 이유:
 5. PPO가 on-policy인데도 sample efficient한 이유를 설명해 보라. (힌트: mini-batch로 여러 번 업데이트)
 
 ---
-
-## 다음 노트
-
-[Imitation Learning / Behavior Cloning](./03-imitation-learning-bc.md)

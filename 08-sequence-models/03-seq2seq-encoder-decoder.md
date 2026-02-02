@@ -100,7 +100,3 @@ Transformer는 RNN을 완전히 제거하고 Attention만으로 Encoder-Decoder�
 5. Bottleneck problem이 없었다면 Attention이 등장했을까? 자신의 의견을 논리적으로 정리하기
 
 ---
-
-## 다음 노트
-
-[워드 임베딩 - 단어를 벡터로 표현하기](./04-word-embeddings.md)

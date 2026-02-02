@@ -104,7 +104,3 @@ graph TD
 5. Visual token 수가 많아지면 LLM 처리에 어떤 영향이 있는지 (장점과 비용) 설명해 보라
 
 ---
-
-## 다음 노트
-
-[CLIP -- Contrastive Language-Image Pre-training](../12-multimodal/01-clip.md)

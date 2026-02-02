@@ -388,9 +388,3 @@ VLA 추론 파이프라인 전체 흐름:
 5. **실시간 제어의 제약**: VLA 로봇이 10Hz(초당 10회)로 동작해야 한다면, 한 번의 추론에 최대 몇 ms를 쓸 수 있는가? Llama 2-7B의 전체 추론 시간이 이 제약을 만족하려면 어떤 최적화가 필요할지 생각해보라.
 
 ---
-
-## 다음 노트 (Next Note)
-
-Transformer의 이론부터 구현까지 모든 것을 다뤘다. 이 구조를 **거대한 규모로 학습**하면 놀라운 능력이 나타난다. 다음은 Transformer를 기반으로 한 **Large Language Model(LLM)**의 세계이다. GPT에서 Llama 2까지, VLA의 "두뇌"를 구성하는 LLM을 알아보자.
-
-**다음**: [../10-llms/](../10-llms/) - 대규모 언어 모델(LLM)의 세계. Pre-training, Scaling Law, In-context Learning, 그리고 VLA의 백본인 Llama 2의 구조까지.

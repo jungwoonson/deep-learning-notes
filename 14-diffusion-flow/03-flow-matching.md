@@ -113,7 +113,3 @@ $$\mathcal{L} = \| v_\theta(x_t, t) - (x_1 - z) \|^2$$
 5. Flow matching으로 action chunk(5 step x 7 dim = 35차원 벡터)를 생성한다고 하자. 노이즈 z와 타겟 x_1은 각각 무엇인가?
 
 ---
-
-## 다음 노트
-
-[Diffusion for Actions](./04-diffusion-for-actions.md)

@@ -119,7 +119,3 @@ OpenVLA는 각 action 차원을 학습 데이터의 통계를 기반으로 정�
 5. 제어 주파수가 10Hz이고 VLA의 추론 시간이 200ms라면, action chunking이 왜 필수적인지 계산해 보라.
 
 ---
-
-## 다음 노트
-
-[Action Tokenization](./05-action-tokenization.md)

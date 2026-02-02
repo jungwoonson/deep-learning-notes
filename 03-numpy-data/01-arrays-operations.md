@@ -175,7 +175,3 @@ np.argmax(a, axis=1)   # [2, 2] (각 행에서 최댓값의 인덱스)
 6. **ReLU 구현**: `np.maximum`을 이용해 음수를 0으로 바꾸는 ReLU 함수를 만들어 보자.
 
 ---
-
-## 다음 노트
-
-다음은 [브로드캐스팅과 벡터화 (Broadcasting and Vectorization)](./02-broadcasting-vectorization.md)를 학습한다. NumPy가 서로 다른 shape의 배열을 어떻게 자동으로 맞춰서 연산하는지, 그리고 왜 for 루프 대신 벡터 연산을 써야 하는지를 배운다.

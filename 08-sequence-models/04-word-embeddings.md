@@ -111,7 +111,3 @@ Word2Vec과 달리, LLM의 임베딩은 모델 전체와 함께 **end-to-end**�
 5. VLA에서 이미지가 입력될 때도 "임베딩"이 필요할지 생각해 보기 (힌트: vision encoder의 출력을 언어 모델 차원에 맞추는 과정)
 
 ---
-
-## 다음 노트
-
-[Attention과 Transformer - 순차 모델의 한계를 넘어서](../09-attention-transformers/)

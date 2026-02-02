@@ -145,7 +145,3 @@ Learnable query tokens → Q-Former (cross-attention) → visual feature에서 �
 5. 새로운 모달리티(예: 촉각 센서 데이터)를 VLA에 추가하려면 unified token 패러다임에서 무엇이 필요한지 생각해 보라
 
 ---
-
-## 다음 노트
-
-[강화학습과 모방학습 -- RL & Imitation Learning](../13-rl-imitation/)

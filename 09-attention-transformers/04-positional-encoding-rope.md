@@ -288,9 +288,3 @@ VLA에서 위치 인코딩이 없다면:
 5. **VLA에서의 다중 위치**: VLA의 입력 시퀀스 [이미지 패치들 | 텍스트 토큰들 | 액션 토큰들]에서, 이미지 패치의 위치와 텍스트 토큰의 위치가 연속적으로 번호가 매겨진다면, 모달리티 간 경계에서 어떤 문제가 생길 수 있을지 생각해보라.
 
 ---
-
-## 다음 노트 (Next Note)
-
-위치 인코딩으로 Transformer에 순서 감각을 부여했다. 이제 Self-Attention을 더 강력하게 만드는 기법인 **Multi-Head Attention**과, Transformer 블록의 나머지 절반인 **Feed-Forward Network(FFN)**를 알아보자. VLA의 Llama 2에서 사용하는 최신 FFN 기법인 SwiGLU도 다룬다.
-
-**다음**: [Multi-Head Attention과 FFN](./05-multi-head-attention-ffn.md) - 여러 관점에서 동시에 주목하는 방법과, 수집한 정보를 처리하는 FFN. Llama 2의 SwiGLU를 포함한 완전한 Transformer Block.

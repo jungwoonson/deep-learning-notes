@@ -346,9 +346,3 @@ loss                               loss
 6. **실전 디버깅**: loss가 처음 몇 step에서 급격히 증가한 후 감소하기 시작한다. 이 현상의 원인은 무엇이고, 어떻게 해결하겠는가?
 
 ---
-
-## 다음 노트 (Next Note)
-
-옵티마이저로 학습 전략을 세웠다. 하지만 깊은 네트워크를 안정적으로 학습시키려면 **정규화(normalization)**와 **과적합 방지(dropout)** 기법이 필요하다. 특히 Transformer에서 사용되는 LayerNorm과 RMSNorm을 이해해야 한다.
-
-**다음**: [정규화와 드롭아웃 (Normalization and Dropout)](./05-normalization-dropout.md) - BatchNorm, LayerNorm, RMSNorm과 Dropout, 가중치 초기화를 다룬다.
