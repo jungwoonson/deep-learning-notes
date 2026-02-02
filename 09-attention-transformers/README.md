@@ -1,5 +1,7 @@
 # 어텐션 & 트랜스포머
 
+현대 딥러닝의 핵심 아키텍처인 Transformer를 다룬다. Attention 메커니즘부터 Self-Attention, Multi-Head Attention, 위치 인코딩까지 단계적으로 분해하고 직접 구현한다.
+
 | # | 주제 | 상태 |
 |---|------|------|
 | 1 | [어텐션 메커니즘](01-attention-mechanism.md) | |

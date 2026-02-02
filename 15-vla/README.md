@@ -1,5 +1,7 @@
 # VLA 모델
 
+이 커리큘럼의 최종 목표. 카메라 이미지와 언어 명령을 입력받아 로봇 행동을 출력하는 Vision-Language-Action 모델을 다룬다. RT-2부터 OpenVLA, pi-zero까지의 발전 과정과 실제 Fairino FR3 배포까지 다룬다.
+
 | # | 주제 | 상태 |
 |---|------|------|
 | 1 | [VLA 개요 2026](01-vla-overview-2026.md) | |
